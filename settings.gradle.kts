@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Vaja1_Kotlin_Basics"
 include(":app")
-include(":app:lib")
+include(":app:ZooModule")
